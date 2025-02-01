@@ -1,16 +1,19 @@
 # memorygrid
 
-A new Flutter project.
+A fun and interactive Memory Grid Game built with Flutter to sharpen logic-building skills and understand game mechanics.
 
-## Getting Started
+🎮 How to Play
+The game presents a grid of hidden tiles.
+Players flip two tiles at a time to find matching pairs.
+If the tiles match, they remain visible.
+If they don’t, they flip back after a short delay.
+The goal is to match all pairs in the least number of moves!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Features
+Simple and engaging gameplay
+Smooth animations for tile flipping
+Randomized grid layout on each play
+Minimalistic UI for distraction-free play
+🛠 Tech Stack
+Flutter for UI & game logic
+Dart for efficient game processing
